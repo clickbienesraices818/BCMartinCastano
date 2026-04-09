@@ -1,7 +1,7 @@
 COMANDO DEL CURSO
 
 > `git --version` //version del git instalada desde terminal <br>
-> code . // ejecutar visual code desde CMD
+> code . // ejecutar visual code desde CMD <br>
 > git init // iniciar un repositorio vacio en git
 > git status //para verificar el status de git
 > git add . //adicionar archivos al repositorio git
