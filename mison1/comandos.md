@@ -3,9 +3,9 @@ COMANDO DEL CURSO
 > `git --version` //version del git instalada desde terminal <br>
 > code . // ejecutar visual code desde CMD <br>
 > git init // iniciar un repositorio vacio en git <br>
-> git status //para verificar el status de git
-> git add . //adicionar archivos al repositorio git
-> git config --global user.email "click.bienesraices7@gmail.com" // para enlazar el git con el correo del github
+> git status //para verificar el status de git<br>
+> git add . //adicionar archivos al repositorio git <br>
+> git config --global user.email "click.bienesraices7@gmail.com" // para enlazar el git con el correo del github <br>
 > git config --global user.name "martincastano" //dar el nombre del usuario al git
 > git commit -m "first commit" // check point del repositorio, tome los cambios en la configuracion
 > git branch -M main //definir la rama del proyecto github ( si solo se ejecuta git branch, toma la rama master)
