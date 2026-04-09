@@ -2,7 +2,7 @@ COMANDO DEL CURSO
 
 > `git --version` //version del git instalada desde terminal <br>
 > code . // ejecutar visual code desde CMD <br>
-> git init // iniciar un repositorio vacio en git
+> git init // iniciar un repositorio vacio en git <br>
 > git status //para verificar el status de git
 > git add . //adicionar archivos al repositorio git
 > git config --global user.email "click.bienesraices7@gmail.com" // para enlazar el git con el correo del github
