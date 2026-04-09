@@ -9,4 +9,5 @@
 > git branch -M main /definir la rama del proyecto github ( si solo se ejecuta git branch, toma la rama master)
 > git remote add origin https://github.com/clickbienesraices818/BCMartinCastano.git // ligar el proyecto en GitHUb
 > git push -u origin main (master) // enviar al repositorio y copnfirmar la propiedad
-> git clone URL //clonar un repositorio de Git Hub de la URL
+> git clone URL //clonar un repositorio de Git Hub de la URLcd ..
+
