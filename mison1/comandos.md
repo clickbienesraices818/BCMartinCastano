@@ -1,6 +1,6 @@
-COMANDO DEL CURSO
+`COMANDOS DEL CURSO`
 
-> `descargat e instalar el Git` //decarga  einstalar el paquete Git
+> `descargar e instalar el Git` //decarga  einstalar el paquete Git
 > `git --version` //version del git instalada desde terminal <br>
 > `code .` // ejecutar visual code desde CMD <br>
 > `git init` // iniciar un repositorio vacio en git <br>
@@ -14,5 +14,13 @@ COMANDO DEL CURSO
 > `git remote add origin https://github.com/clickbienesraices818/BCMartinCastano.git` // ligar el proyecto en GitHUb <br>
 > `git push -u origin main (master)` // enviar al repositorio y copnfirmar la propiedad <br>
 > `git clone URL` //clonar un repositorio de Git Hub de la URLcd .. <br>
-> `descargar e instalar el pythonb`
-> `python --version` //verificar la versión del python instalado
+> `descargar e instalar el python` <br>
+> `python --version` //verificar la versión del python instalado <br>
+
+`//---------------- COMANDOS PYTHON ----------------------------------------<br>`
+
+> `python -m venv env312` // crear el entorno virtual de trabajo en python, env312 es el nombre del entorno <br>
+> `env312\scripts\activate` //activar el entorno - se ejecuta el archvio `activate` ubicado en esa ruta <br>
+> `Set-ExecutionPolicy Unrestricted`  //para habilitar los cambios al SO con la ejecución de comandos. <br>
+> `pip list` para listar las librerias instaladas <br>
+> `cerar un archivo .gitignore dentro del repositorio`
