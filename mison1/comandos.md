@@ -1,5 +1,6 @@
 COMANDO DEL CURSO
 
+> `descargat e instalar el Git` //decarga  einstalar el paquete Git
 > `git --version` //version del git instalada desde terminal <br>
 > `code .` // ejecutar visual code desde CMD <br>
 > `git init` // iniciar un repositorio vacio en git <br>
@@ -12,4 +13,5 @@ COMANDO DEL CURSO
 > `git remote add origin https://github.com/clickbienesraices818/BCMartinCastano.git` // ligar el proyecto en GitHUb <br>
 > `git push -u origin main (master)` // enviar al repositorio y copnfirmar la propiedad <br>
 > `git clone URL` //clonar un repositorio de Git Hub de la URLcd .. <br>
-
+> `descargar e instalar el pythonb`
+> `python --version` //verificar la versión del python instalado
