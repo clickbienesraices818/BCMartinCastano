@@ -6,6 +6,7 @@ COMANDO DEL CURSO
 > `git init` // iniciar un repositorio vacio en git <br>
 > `git status` //para verificar el status de git<br>
 > `git add .` //adicionar archivos al repositorio git <br>
+> `Crear la cuenta en GitHub` //crear cuenta en GitHub y crear el nuevo repositorio
 > `git config --global user.email "click.bienesraices7@gmail.com"` // para enlazar el git con el correo del github <br>
 > `git config --global user.name "martincastano"` //dar el nombre del usuario al git <br> 
 > `git commit -m "first commit"` // check point del repositorio, tome los cambios en la configuracion <br>
