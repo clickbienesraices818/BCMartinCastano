@@ -24,6 +24,6 @@
 > `env312\scripts\activate` //activar el entorno - se ejecuta el archvio `activate` ubicado en esa ruta <br>
 > `Set-ExecutionPolicy Unrestricted`  //para habilitar los cambios al SO con la ejecución de comandos. <br>
 > `pip list` para listar las librerias instaladas <br>
-> `cerar un archivo .gitignore dentro del repositorio`
-> `deactivate` //desacvtivar el entorno
-> `NOTA: Siempre hay que activar el ambiente de trabajo con el comando env312\scripts\activate`
+> `cerar un archivo .gitignore dentro del repositorio` <br>
+> `deactivate` //desacvtivar el entorno <br>
+> `NOTA: Siempre hay que activar el ambiente de trabajo con el comando env312\scripts\activate` <br>
