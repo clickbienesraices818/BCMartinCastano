@@ -27,3 +27,6 @@
 > `cerar un archivo .gitignore dentro del repositorio` <br>
 > `deactivate` //desacvtivar el entorno <br>
 > `NOTA: Siempre hay que activar el ambiente de trabajo con el comando env312\scripts\activate` <br>
+> ## librerias para python
+> `                                                                                                                              numpy matplotlib` // `pandas` --> manejo de datos -- `numpy` --> cálculo matemático -- `matprolib` -- > graficos
+> `python.exe -m pip install --upgrade pip` // actualizar el pip
