@@ -26,3 +26,4 @@
 > `pip list` para listar las librerias instaladas <br>
 > `cerar un archivo .gitignore dentro del repositorio`
 > `deactivate` //desacvtivar el entorno
+> `NOTA: Siempre hay que activar el ambiente de trabajo con el comando env312\scripts\activate`
