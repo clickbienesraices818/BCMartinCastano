@@ -15,12 +15,14 @@
 > `git push -u origin main (master)` // enviar al repositorio y copnfirmar la propiedad <br>
 > `git clone URL` //clonar un repositorio de Git Hub de la URLcd .. <br>
 > `descargar e instalar el python` <br>
-> `python --version` //verificar la versión del python instalado <br>
+
 
 `//---------------- COMANDOS PYTHON ----------------------------------------<br>`
 
+> `python --version` //verificar la versión del python instalado <br>
 > `python -m venv env312` // crear el entorno virtual de trabajo en python, env312 es el nombre del entorno <br>
 > `env312\scripts\activate` //activar el entorno - se ejecuta el archvio `activate` ubicado en esa ruta <br>
 > `Set-ExecutionPolicy Unrestricted`  //para habilitar los cambios al SO con la ejecución de comandos. <br>
 > `pip list` para listar las librerias instaladas <br>
 > `cerar un archivo .gitignore dentro del repositorio`
+> `deactivate` //desacvtivar el entorno
