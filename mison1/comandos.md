@@ -30,6 +30,5 @@
 > ## librerias para python
 > `pip install pandas numpy matplotlib` // `pandas` --> manejo de datos -- `numpy` --> cálculo matemático -- `matprolib` -- > graficos
 > `python.exe -m pip install --upgrade pip` // actualizar el pip
-
-
+> `git remote -v`  //ver en donde esta enlazado el envairoment
 
