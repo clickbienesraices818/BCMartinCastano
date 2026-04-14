@@ -11,4 +11,5 @@ datos={
 df = pd.DataFrame(datos)
 print(df)
 print("Promedio: ",df["nota"].mean())
+
 print("Promedio Edad: ",df["edad"].mean())
